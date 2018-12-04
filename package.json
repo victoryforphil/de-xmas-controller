@@ -1,0 +1,25 @@
+{
+  "name": "de-xmas-controller",
+  "version": "0.0.1",
+  "description": "Lol",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoryforphil/de-xmas-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoryforphil/de-xmas-controller/issues"
+  },
+  "homepage": "https://github.com/victoryforphil/de-xmas-controller#readme",
+  "dependencies": {
+    "disnode-logger": "^0.2.1",
+    "eris": "^0.9.0",
+    "express": "^4.16.4",
+    "serialport": "^7.1.0"
+  }
+}
